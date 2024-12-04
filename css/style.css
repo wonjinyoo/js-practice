@@ -1,0 +1,13 @@
+.hidden {
+  display: none;
+}
+
+/* clock setting */
+#clock {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 150px;
+  display: flex;
+  justify-content: center; /* 가로 가운데 */
+  align-items: center; /* 세로 가운데 */
+  height: 30vh; /* 뷰포트 높이 */
+}
